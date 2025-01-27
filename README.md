@@ -22,7 +22,7 @@
 1. **Clonez le repository:**
 
 ```bash 
-clone https://github.com/safae04/data_visualizer.git
+clone https://github.com/Safaeabdelmoula/data_visualizer.git
 cd data-visualizer 
 ```
 
